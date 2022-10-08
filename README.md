@@ -12,5 +12,5 @@
 # Objetivo:
 - Las expresiones lambda en Python son una forma corta de declarar funciones pequeñas y anónimas (no es necesario proporcionar un nombre para las funciones lambda), su objetivo principalmente en poder ejecutar de manera rapida y segura.
 
-## Desarrollado Por:
+## Desarrollado Por:Andrea Bedoya
 ### Medellín,Antioquía
